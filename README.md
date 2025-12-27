@@ -11,6 +11,10 @@ StyleShift is a sophisticated text formalization system designed to convert info
 - **Optimized Inference**: Utilizes 4-bit quantization to enable fast inference while maintaining model performance and reducing memory requirements
 - **Semantic Preservation**: Maintains the original meaning and intent of the input text while elevating the linguistic formality and professionalism
 
+## Example Output
+
+![StyleShift Example](image.png)
+
 ## Installation
 
 To set up the environment and install dependencies:
